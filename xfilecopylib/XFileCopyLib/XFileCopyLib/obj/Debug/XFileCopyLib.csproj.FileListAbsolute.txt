@@ -1,0 +1,7 @@
+D:\Gits\lylv\xfilecopylib\XFileCopyLib\XFileCopyLib\bin\Debug\XFileCopyLib.exe.config
+D:\Gits\lylv\xfilecopylib\XFileCopyLib\XFileCopyLib\bin\Debug\XFileCopyLib.exe
+D:\Gits\lylv\xfilecopylib\XFileCopyLib\XFileCopyLib\bin\Debug\XFileCopyLib.pdb
+D:\Gits\lylv\xfilecopylib\XFileCopyLib\XFileCopyLib\obj\Debug\XFileCopyLib.csproj.AssemblyReference.cache
+D:\Gits\lylv\xfilecopylib\XFileCopyLib\XFileCopyLib\obj\Debug\XFileCopyLib.csproj.CoreCompileInputs.cache
+D:\Gits\lylv\xfilecopylib\XFileCopyLib\XFileCopyLib\obj\Debug\XFileCopyLib.exe
+D:\Gits\lylv\xfilecopylib\XFileCopyLib\XFileCopyLib\obj\Debug\XFileCopyLib.pdb
